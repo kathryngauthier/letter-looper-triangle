@@ -4,7 +4,7 @@ var n = 0;
 
 if (letter == 'a') {
   document.write('a');
-  document.write('<br>') ;
+  document.write('<br>');
 }
 
 for (i = 0; i < 10; i++) {
