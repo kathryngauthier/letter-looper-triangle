@@ -8,7 +8,7 @@ if (letter == 'a') {
 }
 
 for (i = 0; i < 15; i++) {
-
+  for (n = 0; n < i; n++) {
     document.write(letter);
   }
   document.write('<br>');
